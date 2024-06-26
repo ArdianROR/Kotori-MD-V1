@@ -6,10 +6,10 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 
 conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://youtu.be/QOm1gEFbMdI",
+    mediaUrl: "https://instagram.com/@ard_0211",
     mediaType: 2,
-    description: "hhttps://youtu.be/QOm1gEFbMdI", 
-    title: 'Nextbotz-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ',
+    description: "https://Instagram.com/@ard_0211", 
+    title: 'YANZBOT-MULTIDEVICE',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig  }}})
