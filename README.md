@@ -3,7 +3,7 @@
 Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Brother!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="https://i.ibb.co/jbHnwDr/20221218-011857.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://raw.githubusercontent.com/ArdianROR/Kotori-MD-V1/master/thumbnail.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## PENTING
@@ -11,23 +11,23 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 > **Warning**: Script Ini Tidak Support Qr Untuk Saat Ini, Jadi Kalian Bisa Menggunakan Replit Untuk Mengambil Session Atau
 Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Sesi Bisa Pakai main.js.bak yg sudah saya sediakan
 
-<h1 align="center">NexBotz - MD</h1>
+<h1 align="center">YanBot - MD</h1>
 <p align="center">
-  <a href="https://github.com/Lucife-Putra"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Amelia+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+PutraModz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/ArdianROR"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Amelia+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+PutraModz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
  <a href="#"><img title="Amelia Cantik" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Lucife-Putra"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ArdianROR"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
 ## ```Connect With Me 📞``` 
 
-## ```Whatsapp``` <a href="https://wa.me/6282214729677"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282214729677) 
+## ```Whatsapp``` <a href="https://wa.me/628386413714"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628386413714) 
 ---------
 
 ### a little about this bot
@@ -54,7 +54,7 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 ---------
 
 ## ```For User Panel, Buy Panel In This Number```
-[![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282214729677) 
+[![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628386413714) 
 ---------
 
 ## ```USER RAILWAY```
@@ -120,11 +120,11 @@ Set prefix
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/Lucife-Putra)
-* [`My parents`](https://github.com/Lucife-Putra)
-* [`All Friends`](https://github.com/Lucife-Putra)
-* [`All Contributors`](https://github.com/Lucife-Putra)
-* [`All Creator Bot`](https://github.com/Lucife-Putra)
+* [`Allah SWT`](https://github.com/ArdianROR)
+* [`My parents`](https://github.com/ArdianROR)
+* [`All Friends`](https://github.com/ArdianROR)
+* [`All Contributors`](https://github.com/ArdianROR)
+* [`All Creator Bot`](https://github.com/ArdianROR)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
@@ -133,4 +133,4 @@ Set prefix
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
 ## ```Recode By ✏️```
-[![PutraModz](https://telegra.ph/file/03e268e2e4f5f359cdc55.jpg?size=20)](https://github.com/Lucife-Putra)
+[![Ardian](https://telegra.ph/file/03e268e2e4f5f359cdc55.jpg?size=20)](https://github.com/ArdianROR)
