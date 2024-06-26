@@ -56,11 +56,11 @@ let handler = async function (m, { text, usedPrefix, command }) {
 ┗━━━━━━━━━━━━━━━━━━㉿
 ┏━━〔 ıll CONTOH llı 〕━㉿
 ⬡ #daftar namamu.umurmu
-⬡ #daftar PutraModz.18
+⬡ #daftar Ardian.15
 ┗━━━━━━━━━━㉿ 
 ⫹⫺ 
 ⫹⫺`, 
-   footer: `*ᴘᴜᴛʀᴀᴍᴏᴅz*`, 
+   footer: `*ARDIAN*`, 
    title: "", 
    buttonText: "CLICK HERE", 
    sections 
@@ -85,7 +85,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
  ╭━━━━「 *BERHASIL* 」
  ❖ Terima kasih ${name} Sudah mendaftar
 Di Database kami
- ❖ © ᴘᴜᴛʀᴀᴍᴏᴅz || ALL RESERVED
+ ❖ © ARDIAN || ALL RESERVED
 
  ╭━━━━「 *DATA* 」
  ┊⫹ *Sucsess ☑️* 】Status
@@ -103,7 +103,7 @@ Jika owner mengetahui Hal di atas, Maka tidak segan²
 Nomor Anda Akan Di Banned/Block!.
 `
   let buttonMessage= {
-'document':{'url':'https://youtu.be/QOm1gEFbMdI'},
+'document':{'url':'https://Instagram.com/@ard_0211'},
 'mimetype':global.ddocx,
 'fileName':'▢━━━━「 Registration 」━━━━▢',
 'fileLength':fsizedoc,
@@ -112,13 +112,13 @@ Nomor Anda Akan Di Banned/Block!.
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://youtu.be/pwLZpdfO8AU',
+'mediaUrl':'https://Instagram.com/@ard_0211',
 'mediaType':2,
 'previewType':'pdf',
 'title':global.titlebot,
 'body':global.titlebot,
 'thumbnail':await(await fetch('https://telegra.ph/file/beec58efa5d3821dea224.jpg')).buffer(),
-'sourceUrl':'https://youtu.be/QOm1gEFbMdI'}},
+'sourceUrl':'https://Instagram.com/@ard_0211'}},
 'caption':cap,
 'footer':botdate,
 'buttons':[
