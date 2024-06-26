@@ -13,7 +13,7 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 
 <h1 align="center">YanBot - MD</h1>
 <p align="center">
-  <a href="https://github.com/ArdianROR"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=YanzBotz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+PutraModz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/ArdianROR"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=YanzBot+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Ardian;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
